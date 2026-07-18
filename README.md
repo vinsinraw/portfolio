@@ -28,7 +28,7 @@ npm start
 npm run build-gh-pages
 ```
 
-Visit `https://vinsinraw.github.io/portfolio2/`
+Visit `https://vinsinraw.github.io/portfolio/`
 
 ## Customization
 

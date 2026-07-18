@@ -59,7 +59,7 @@ cat > package.json << 'EOF'
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build --configuration production",
-    "build-gh-pages": "ng build --configuration production --base-href=/portfolio2/",
+    "build-gh-pages": "ng build --configuration production --base-href=/portfolio/",
     "test": "ng test",
     "lint": "ng lint"
   },
@@ -769,7 +769,7 @@ npm start
 npm run build-gh-pages
 ```
 
-Visit `https://vinsinraw.github.io/portfolio2/`
+Visit `https://vinsinraw.github.io/portfolio/`
 
 ## Customization
 
